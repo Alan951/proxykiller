@@ -1,0 +1,1 @@
+On my work computer they use some windows policies that affect my productivity. This script periodically disables the proxy settings and configuration script.
